@@ -1,4 +1,4 @@
-# ICND_Bridge
+# ICND Bridge
 Layer2 SW
 
 * Preview:
