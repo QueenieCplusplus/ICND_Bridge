@@ -7,7 +7,7 @@ https://github.com/QueenieCplusplus/ICND_Data_Link_Layer/blob/master/README.md#�
 
 * 橋接技術的特性：
 
-   * 每一區段自成碰撞區。
+   * 每一區段自成碰撞區。 （一橋接器或是交換器最多能劃分出四個碰撞區，並且只有一個廣播區。）
    
    * 以同一橋接器（抑或是 L2 交換器）相連的所有設備（終端機、主機、工作站）亦為同一廣播區。
    
